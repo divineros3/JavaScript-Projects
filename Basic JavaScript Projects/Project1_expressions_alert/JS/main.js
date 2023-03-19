@@ -1,7 +1,7 @@
 document.write("Hello, World!");
-var A = "I\'m slowly catching up on my studies.";
+var A = "This is the beginning of the string" + " and this is the end of the string";
 document.write(A);
-var B = "Concatenated" + " String"
+var B = "Concatenated" + " String";
 document.write(B)
 document.write("\"Be who you are and say what you feel," + " because those who mind don\'t matter and those who matter don\'t mind.\"" + "-Dr. Seuss");
 var Family = "The Godfreys", Dad = "Sean", Mom = "Divine", Daughter = "Pretty Girl", Son = "Luca";
