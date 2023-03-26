@@ -47,3 +47,5 @@ document.write(5>10 || 10>20);
 function not_Function() {
     document.getElementById("Not").innerHTML = !(20 > 10);
 }
+
+document.write(Bigger = (5>1)? "Left number is bigger":"Right number is bigger"); //Ternary operator
